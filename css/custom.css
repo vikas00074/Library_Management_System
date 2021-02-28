@@ -1,0 +1,22 @@
+
+body{
+	background: #f1f1f1;
+	color: #000;
+	font-family: 'Brygada 1918', serif;
+}
+
+
+
+.left-side {
+	margin-left: 100px;
+}
+
+.left-side ul li{
+	list-style: none;
+	padding: 0 0 20px 0;
+}
+
+.right-side{
+	padding-left: 100px;
+	margin-bottom: 200px;
+}
