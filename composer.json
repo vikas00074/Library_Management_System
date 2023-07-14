@@ -1,3 +1,30 @@
 {
-  "name": "Library_Management_System"
+  "name": "vikas00074/lms",
+  "description": "Description of your project",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Vikas Kumar",
+      "email": "thanksvikasweb@yahoo.com"
+    }
+  ],
+  "require": {
+    "php": "^7.4",
+    "vendor/package": "^1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "scripts": {
+    "test": "phpunit"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/vikas00074/Library_Management_System.git"
+    }
+  ]
 }
