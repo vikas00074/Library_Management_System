@@ -1,6 +1,6 @@
 {
   "name": "Library_Management_System",
   "require": {
-    "vendor/package": "1.0.0"
+    "vendor/laravel": "1.0.0"
   }
 }
